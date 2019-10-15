@@ -175,6 +175,6 @@ footer {
 
 @media all and (max-width: 1000px){
 body     {
-        background-color: pink; 
+        background-color: rgb(221, 74, 99); 
     }
 }
